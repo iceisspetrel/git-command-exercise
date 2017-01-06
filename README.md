@@ -9,6 +9,6 @@ git log 查看git提交日志 <br/>
 git reset --hard [~index | commitid] 恢复到倒数第几个版本或者是指定提交id的版本<br/>
 git reset head [filename] 将某个文件回退到分支的最新版本中<br/>
 git reflog 查看git版本变更命令日志<br/>
-git checkout -- [filename] 舍弃某个文件的修改，回退到暂存区的内容或者是分支的内容
-git remote add origin git@github.com:iceisspetrel/git-command-exercise 将本地仓库与远程仓库关联
-git push -u origin master 将本地仓库内容提交到远程仓库 第一次时需要使用-u，之后就不用了
+git checkout -- [filename] 舍弃某个文件的修改，回退到暂存区的内容或者是分支的内容<br/>
+git remote add origin git@github.com:iceisspetrel/git-command-exercise 将本地仓库与远程仓库关联<br/>
+git push -u origin master 将本地仓库内容提交到远程仓库 第一次时需要使用-u，之后就不用了<br/>
