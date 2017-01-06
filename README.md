@@ -12,3 +12,6 @@ git reflog 查看git版本变更命令日志<br/>
 git checkout -- [filename] 舍弃某个文件的修改，回退到暂存区的内容或者是分支的内容<br/>
 git remote add origin git@github.com:iceisspetrel/git-command-exercise 将本地仓库与远程仓库关联<br/>
 git push -u origin master 将本地仓库内容提交到远程仓库 第一次时需要使用-u，之后就不用了<br/>
+
+
+推荐教程:http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
