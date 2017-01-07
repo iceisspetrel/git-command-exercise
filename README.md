@@ -14,4 +14,7 @@ git remote add origin git@github.com:iceisspetrel/git-command-exercise 将本地
 git push -u origin master 将本地仓库内容提交到远程仓库 第一次时需要使用-u，之后就不用了<br/>
 
 
+git config --global core.autocrlf false 解决git add时windows 和 linux 换行符不一致问题
+
+
 推荐教程:http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
